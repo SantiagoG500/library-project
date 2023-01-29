@@ -1,0 +1,6 @@
+@media (hover: hover) {
+  .btn:hover {
+    cursor: pointer;
+    background-color: var(--btn-bg-color-hover);
+  }
+}
